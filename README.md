@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crupp52
 - 👀 I’m interested in Laravel, Tailwind CSS and cycling 💻🚲
 - 🌱 I’m currently learning Tailwind CSS and Livewire
-- 💞️ I’m looking to collaborate on lot of interestring porjects
+- 💞️ I’m looking to collaborate on lot of interestring projects
 - 📫 How to reach me: <zucklevente@gmail.com>
 
 <!---
